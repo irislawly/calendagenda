@@ -6,7 +6,10 @@
 ## General info
 This project was created for BCIT Computer System Technology 
 Fall Term 1 students by Group31 for Projects 1 course.
-
+Link: https://calenderapp-2aa01.firebaseapp.com/
+Testing:
+username: user1@mail.com
+pass: user123
 	
 ## Technologies
 Technologies that were used for our project:
